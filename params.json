@@ -1,0 +1,6 @@
+{
+  "name": "Socket.io extension",
+  "tagline": "Socket.io extension by Mrcomputer1",
+  "body": "# Welcome to Socket.io extension by Mrcomputer1\r\n\r\n[Download the helper application](https://github.com/Mrcomputer1Extensions/socket.io-extension/releases)\r\n\r\n[Use the extension (helper application required to be running)](https://scratchx.org/?url=http://Mrcomputer1Extensions.github.io/socket.io-extension/Extension/socket.io.extension.js)\r\n\r\n[Source Code](https://github.com/Mrcomputer1Extensions/socket.io-extension/blob/gh-pages/Extension/socket.io.extension.js)\r\n\r\n[Report an issue](https://github.com/Mrcomputer1Extensions/socket.io-extension/issues/new)\r\n\r\n# Blocks\r\n## BUTTON: Create \\[event name\\]\r\nCreates event\r\n## HAT: On \\[event name v\\]\r\nCode run when event is received\r\n## BLOCK: Emit \\[event name v\\]\r\nSend the event\r\n## REPORTER: Get \\[variable name\\] from \\[event name\\]\r\nGet variable from event\r\n## BLOCK: Set \\[variable name\\] to \\[variable value\\] on \\[event name\\]\r\nSet variable for event",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
