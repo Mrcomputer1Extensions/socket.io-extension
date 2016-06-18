@@ -1,0 +1,29 @@
+{
+  "name": "socket.io-extension",
+  "version": "1.0.0",
+  "description": "Socket.io ScratchX Extension",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mrcomputer1Extensions/socket.io-extension.git"
+  },
+  "keywords": [
+    "socket.io",
+    "scratchx",
+    "scratch",
+    "extension"
+  ],
+  "author": "Mrcomputer1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mrcomputer1Extensions/socket.io-extension/issues"
+  },
+  "homepage": "https://github.com/Mrcomputer1Extensions/socket.io-extension#readme",
+  "dependencies": {
+    "socket.io": "^1.4.6"
+  }
+}
